@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="./screenshots/kupec-main-window.jpg"
+  <img src="./screenshots/kupec-main-window.JPG"
        alt="Главное окно конфигурации 1С Купец"
        width="1000">
 </p>
@@ -226,7 +226,7 @@
 Счёт на оплату связан с исходным заказом клиента и автоматически получает основные данные документа-основания.
 
 <p align="center">
-  <img src="./screenshots/kupec-document.jpg"
+  <img src="./screenshots/kupec-document.JPG"
        alt="Счёт на оплату, созданный на основании заказа клиента"
        width="900">
 </p>
@@ -236,7 +236,7 @@
 Отчёт разработан с использованием СКД. Результат представлен в виде диаграммы количества проданных товаров.
 
 <p align="center">
-  <img src="./screenshots/kupec-sales-report.jpg"
+  <img src="./screenshots/kupec-sales-report.JPG"
        alt="Отчёт по продажам с диаграммой"
        width="1000">
 </p>
@@ -246,10 +246,10 @@
 Конфигурация включает справочники, документы, регистры сведений и накопления, регистр бухгалтерии, регистр расчёта, планы счетов, роли и отчёты.
 
 <p align="center">
-  <img src="./screenshots/kupec-metadata-1.jpg"
+  <img src="./screenshots/kupec-metadata-1.JPG"
        alt="Первая часть дерева объектов конфигурации 1С Купец"
        width="390">
-  <img src="./screenshots/kupec-metadata-2.jpg"
+  <img src="./screenshots/kupec-metadata-2.JPG"
        alt="Вторая часть дерева объектов конфигурации 1С Купец"
        width="390">
 </p>
